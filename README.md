@@ -1,2 +1,3 @@
 # NBT-Dupe-Checker
-User Friendly Skyblock Mod
+User Friendly Hypixel Skyblock Dupe Checker Mod
+
