@@ -8,6 +8,7 @@ You can download the mod here() The mod installs dependencies when the game is f
 
 # **Information**
 A simple but useful Hypixel Skyblock mod for forge 1.8.9 that checks NBT data for duped items. If duped items appear, it will darken the background of the item.
+
 ![image](https://user-images.githubusercontent.com/106424373/170815336-9a690748-1a84-48d1-a7c1-757c0022eacc.png)
 
 
