@@ -24,6 +24,8 @@ This mod follows Hypixel's rules in our interpretation. Similar to most Skyblock
 # **Config**
 O - Opens Dupe Checker's config.
 
-/CD [player] - Checks if the player has any duped items. [NOT WORKING]
+/CD [player] - Checks if the player has any duped items. **[NOT WORKING]**
 
 /CD - Checks inventory for duped items -You can change these settings in the controls menu.
+
+/CD AH **[IN PROGRESS]**
