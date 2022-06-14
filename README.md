@@ -28,4 +28,4 @@ O - Opens Dupe Checker's config.
 
 /CD - Checks inventory for duped items -You can change these settings in the controls menu.
 
-/CD AH **[IN PROGRESS]**
+/CD AH **[IN PROGRESS]** 
